@@ -5,7 +5,7 @@
     "picture": "",
     "email": "rvance@hawaii.edu",
     "phone": "808-782-7254",
-    "website": "https://github.com/VanceR2000/VanceR2000.github-io",
+    "website": "https://vancerae.github.io/spring26/",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "91-1143 Waikapoo St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -37,7 +37,27 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
+
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2022-08-01",
+      "endDate": "2023-07-31",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Grantham University, Kansas City, MI",
+      "area": "Computer and Electrical Engineering",
+      "studyType": "A.S.",
+      "startDate": "2006-08-01",
+      "endDate": "2011-12-31",
+      "courses": [
+      ]
+    },
+
   ],
   "work": [
     {
@@ -46,10 +66,10 @@
       "website": "https://www.mynavyexchange.com",
       "startDate": "2025-04-14",
       "endDate": "Present",
-      "summary": "Mens and Shoes Department",
+      "summary": "Men's and Shoes Department",
       "highlights": [
         "Maintain, update, and recovery of returned items",
-        "Trained on cash resister, third party gift cards, and customer service relationships "
+        "Trained on cash register, third-party gift cards, and customer service relationships."
       ]
     },
     {
@@ -58,10 +78,10 @@
       "website": "https://www.navy.com",
       "startDate": "2000-01-18",
       "endDate": "2022-01-31",
-      "summary": "Middle managment",
+      "summary": "Middle management",
       "highlights": [
-        "Troubleshoot hardware, and mechanical components",
-        "Personnel, time, and program managment"
+        "Troubleshoot hardware and mechanical components",
+        "Personnel, time, and program management"
       ]
     }
   ],
@@ -74,7 +94,7 @@
       "endDate": "Present",
       "summary": "Volunteer",
       "highlights": [
-        "As a volunteer at The Pantry, Hawaiʻi’s only 501(c)(3) e-commerce food distribution site, I support both day-to-day operations and behind-the-scenes infrastructure that helps serve hundreds of families across Oʻahu each week. My contributions span two key areas:
+        "As a volunteer at The Pantry, Hawaiʻi's only 501(c)(3) e-commerce food distribution site, I support both day-to-day operations and behind-the-scenes infrastructure that helps serve hundreds of families across Oʻahu each week. My contributions span two key areas:
 Logistics & Distribution
 Assist with inventory, order fulfillment, and packing to ensure smooth, respectful food distribution
 Collaborate with team members to meet the needs of diverse clients
@@ -104,7 +124,7 @@ This role has deepened my understanding of how technology can support nonprofit 
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request."
     }
   ]
 }
