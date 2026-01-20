@@ -4,29 +4,39 @@
     "label": "Student",
     "picture": "img/IMG_1079.jpeg",
     "email": "rvance@hawaii.edu",
-    "phone": "808-782-7254",
     "website": "https://vancerae.github.io/spring26/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": "email": "rvance@hawaii.edu", "location": {"city": "Ewa Beach", "region": "Oʻahu", "state": "Hawaiʻi"  "countryCode": "USA"
-}
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": {
+      "city": "Oʻahu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "rvance@hawaii.edu", "url": "http://github.com/VanceR2000" },
-      { "network": "linkedin", "username": "green_dragon22@hotmail.com", "url": "https://www.linkedin.com/in/raeanna-vance/" },
+      {
+        "network": "github",
+        "username": "VanceR2000",
+        "url": "https://github.com/VanceR2000"
+      },
+      {
+        "network": "linkedin",
+        "username": "raeanna-vance",
+        "url": "https://www.linkedin.com/in/raeanna-vance/"
+      }
     ]
   },
   "interests": [
     { "name": "Volunteering" },
     { "name": "Reading" },
-    { "name": "Gaming"}
+    { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
+      "keywords": ["C", "C++", "Java", "JavaScript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", " Windows", "Git/GitHub" ]
+      "keywords": ["macOS", "Windows", "Git/GitHub"]
     }
   ],
   "education": [
@@ -36,29 +46,24 @@
       "studyType": "B.A.",
       "startDate": "2023-08-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
-
     {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Liberal Arts",
       "studyType": "A.A.",
       "startDate": "2022-08-01",
       "endDate": "2023-07-31",
-      "courses": [
-      ]
+      "courses": []
     },
     {
-      "institution": "Grantham University, Kansas City, MI",
+      "institution": "Grantham University, Kansas City, MO",
       "area": "Computer and Electrical Engineering",
       "studyType": "A.S.",
       "startDate": "2006-08-01",
       "endDate": "2011-12-31",
-      "courses": [
-      ]
-    },
-
+      "courses": []
+    }
   ],
   "work": [
     {
@@ -90,42 +95,20 @@
     {
       "organization": "The Pantry, by Feeding Hawaii Together",
       "website": "https://thepantry.org",
-      "position": "",
+      "position": "Volunteer",
       "startDate": "2023-06-01",
       "endDate": "Present",
       "summary": "Volunteer",
       "highlights": [
-        "As a volunteer at The Pantry, Hawaiʻi's only 501(c)(3) e-commerce food distribution site, I support both day-to-day operations and behind-the-scenes infrastructure that helps serve hundreds of families across Oʻahu each week. My contributions span two key areas:
-Logistics & Distribution
-Assist with inventory, order fulfillment, and packing to ensure smooth, respectful food distribution
-Collaborate with team members to meet the needs of diverse clients
-Gain hands-on experience with real-world logistics and community-based solutions
-Technical Support & Infrastructure
-Provide on-site tech support, troubleshooting computer issues for staff and volunteers
-Reorganized and rerouted wiring within a new server cabinet to improve airflow and cable management
-Assist with general IT maintenance, helping ensure the technology that powers the organization runs smoothly
-This role has deepened my understanding of how technology can support nonprofit efficiency, while reinforcing my passion for using my computer science training to serve the community."
+        "Support inventory, order fulfillment, and packing for community food distribution.",
+        "Provide on-site tech support and troubleshoot computer issues for staff and volunteers.",
+        "Reorganized and rerouted wiring within a server cabinet to improve airflow and cable management.",
+        "Assist with general IT maintenance to support nonprofit operations."
       ]
     }
-],
-    
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
+  "awards": [],
   "references": [
-    {
-      "name": "Available upon request."
-    }
+    { "name": "Available upon request." }
   ]
 }
