@@ -5,11 +5,8 @@
     "picture": "img/IMG_1079.jpeg",
     "email": "rvance@hawaii.edu",
     "website": "https://vancerae.github.io/spring26/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": {
-      "city": "Oʻahu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026. Continuing my Education to a Masterʻs Degree in Library Science.",
+    "location": {"city": "Ewa Beach", "island": "Oʻahu", "state": "Hawaii, "countryCode": "USA",
     },
     "profiles": [
       {
