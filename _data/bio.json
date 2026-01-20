@@ -6,8 +6,9 @@
     "email": "rvance@hawaii.edu",
     "phone": "808-782-7254",
     "website": "https://vancerae.github.io/spring26/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "91-1143 Waikapoo St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "location": "email": "rvance@hawaii.edu", "location": {"city": "Ewa Beach", "region": "Oʻahu", "state": "Hawaiʻi"  "countryCode": "USA"
+}
     "profiles": [
       { "network": "github", "username": "rvance@hawaii.edu", "url": "http://github.com/VanceR2000" },
       { "network": "linkedin", "username": "green_dragon22@hotmail.com", "url": "https://www.linkedin.com/in/raeanna-vance/" },
